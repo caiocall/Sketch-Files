@@ -46,6 +46,14 @@
     {
       "id": "5AB5E969-CF71-4FD6-B33B-82899DB8095C",
       "class": "shapeGroup"
+    },
+    {
+      "id": "B9009A63-2AC2-4953-BED9-A84F6A343947",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "583E2CBF-BB24-4A20-94C8-71CCB5816DB2",
+      "class": "text"
     }
   ],
   "horizontalRulerData": {

@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "c4e88a90-6d68-11e7-9611-d1bb46ddbf6d",
+  "_class": "symbolMaster",
+  "do_objectID": "06A090A4-D1EA-41EB-919F-4EAB99B4D6E1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,9 +11,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 282,
+    "width": 282,
+    "x": 100,
     "y": 0
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Page 1",
+  "name": "Square",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,27 +36,32 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "AD03ADB6-A925-442A-81A8-DC4CE0D21645",
-      "class": "text"
-    },
-    {
-      "id": "65DAEAA7-EE58-48BC-B7ED-9F061D6D7E42",
-      "class": "symbolInstance"
-    },
-    {
-      "id": "5AB5E969-CF71-4FD6-B33B-82899DB8095C",
+      "id": "EC5D7FE5-FF89-4D36-B098-9B2B5A05E7CE",
       "class": "shapeGroup"
     }
   ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "hasBackgroundColor": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": []
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "resizesContent": false,
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": []
-  }
+  },
+  "includeBackgroundColorInInstance": false,
+  "symbolID": "CDDBC047-39DE-4CEE-B11A-7C98007537B7",
+  "changeIdentifier": 178
 }
